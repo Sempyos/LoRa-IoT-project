@@ -26,15 +26,15 @@
 2. Flash RX and TX to Feathers with Arduino IDE.
 3. Import flows.json to Node Red and add bot token to any nodes with a red triangle.
 4. Wire TX Feather to DHT11 or other sensor.
-5. Plug in Feathers and correct COM/ACM ports in serial in if needed.
+5. Plug in Feathers and correct COM/ACM ports in serial if needed.
 6. Click Deploy wait for output in debug console and if so click the button next to inject.
-7. Done.
+7. Done !
 
 </details>
 
 ## Credits
-**Xendyexe**
+**Xendy**
 
-**Semper**
+**Sempy**
 
-**Litho**
+**Litho.**
